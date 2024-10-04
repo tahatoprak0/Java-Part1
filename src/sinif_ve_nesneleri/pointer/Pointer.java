@@ -28,6 +28,7 @@ public class Pointer {
 
     }
 
+
     public void bilgileriGoster(){
         System.out.println("X:"+x);
         System.out.println("Y:"+y);
