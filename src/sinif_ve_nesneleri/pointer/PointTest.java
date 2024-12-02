@@ -2,10 +2,10 @@ package sinif_ve_nesneleri.pointer;
 
 public class PointTest {
     public static void main(String[] args) {
-        double orjin=0.0;
+       //orijin: 0.0 noktası
         Pointer point=new Pointer();
-        point.x=5;
-        point.y=6;
+        point.setX(5);
+        point.setY(6);
         point.moveXUp();
         point.moveYUp();
         point.moveXUp();

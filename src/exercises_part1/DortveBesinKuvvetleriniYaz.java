@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //4 16 64 256
 //5 25 125
-//Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
+
 public class DortveBesinKuvvetleriniYaz {
     public static void main(String[] args) {
         Scanner giris = new Scanner(System.in);
